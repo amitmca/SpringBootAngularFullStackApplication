@@ -1,0 +1,13 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+ <modelVersion>4.0.0</modelVersion>
+ <groupId>com.devglan</groupId>
+    <artifactId>portal-parent</artifactId>
+    <version>0.0.1-SNAPSHOT</version>
+    <packaging>pom</packaging>
+    <name>Spring Boot Angular Full Stack Application</name>
+    <description>Spring Boot Angular Full Stack Application</description>
+    <modules>
+           <module>user-backend-service</module>
+		   <module>user-frontend-service</module>
+    </modules>
+</project>
