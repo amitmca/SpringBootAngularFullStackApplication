@@ -14,8 +14,4 @@ This project uses following versions:
 3. Maven
 4. Git
 
-Sr No	Description
-1	Creating Spring Boot User Application  - Backend
-2	Creating Angular User Application and deploy as a WAR – Frontend
-3	Create Modular Project Structure
-4	Single Jenkins job to Deploy Frontend and Backend
+
