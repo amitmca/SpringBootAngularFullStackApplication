@@ -1,13 +1,11 @@
 # spring-boot-angular5
 The sample maven configuration to build spring boot and angular 5 project together as a war file.
-The actual implementation was posted on [spring boot angular Deployment](http://www.devglan.com/spring-boot/spring-boot-angular-deployment)
-This is a sample project using Angular 5 and spring Boot.Spring boot has been used to expose REST Endpoints and the client is written in angular. 
+This is a sample project using Angular 5 and Spring Boot.Spring boot has been used to expose REST Endpoints and the client is written in angular. 
 This is a complete web application with a connectivity to mysql database. We have used spring data to connect to the database and perform CRUD
 operation.
 
 The application has CRUD operation example for user entity. Here, you can create
-a user, read users record and also delete user. The complete explanation can be 
-found on my blog - [spring boot angular 5 example](http://www.devglan.com/spring-boot/spring-boot-angular-spring-data-example)
+a user, read users record and also delete user. 
 
 This project uses following versions:
 
@@ -15,3 +13,5 @@ This project uses following versions:
 2. Angular v5.0.0
 3. Maven
 4. Git
+
+
